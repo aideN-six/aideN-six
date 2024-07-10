@@ -1,8 +1,6 @@
-<h1 align="left">Hi there! 👋</h1>
-
-###
-
-<p align="left">I am Noah Aiden and I am from Brazil.</p>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!;+👋;+I+am+Noah+Aiden;" />
+</h1>
 
 ###
 
@@ -10,7 +8,9 @@
 
 ###
 
-<h2 align="left">Oi, eu sou o Noah Aiden! 👋</h2>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi!+👋;+Eu+sou+o+Noah+Aiden;" />
+</h1>
 
 ###
 
@@ -42,9 +42,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-![snake gif](https://github.com/aideN-six/aideN-six/snakegame.yml/output/github-contribution-grid-snake.svg)
 
 ###
