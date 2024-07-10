@@ -45,6 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aideN-six/aideN-six/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/aideN-six/aideN-six/blob/output/github-contribution-grid-snake.svg)
 
 ###
